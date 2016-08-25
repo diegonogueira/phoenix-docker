@@ -1,4 +1,4 @@
-FROM marcelocg/phoenix
+FROM marcelocg/phoenix:v1.2.0
 
 ENV PHOENIX_VERSION 1.2.1
 
